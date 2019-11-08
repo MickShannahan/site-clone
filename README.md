@@ -21,6 +21,7 @@ When you are ready to start coding, you will need to create a new application in
 - [ ] Appropriate use of HTML5 Semantic tags for the `header` and the `footer`
 - [ ] The page layout is the same as the mock (content and colors can be changed)
 - [ ] On mobile any elements sharing a row should stack (hint: col-12)
+- [ ] At least one element order changes based on screen size
 
 ## Specification callouts
 ![specifications](./CloneSiteSpecifications.png)
