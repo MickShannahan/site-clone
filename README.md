@@ -28,4 +28,4 @@ When you are ready to start coding, you will need to create a new application in
 
 ### Mobile Responsive Layout
 
-![mobile-specifications](./mobile-site-clone.png)
+![mobile-specifications](./MobileCloneSiteSpecifications.png)
