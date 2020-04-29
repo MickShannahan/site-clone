@@ -37,4 +37,5 @@ When you are ready to start coding, you will need to create a new application in
 ### Stretch goals
 
 - Add some CSS Animations to the page
-- Utilize `scroll to`
+- Utilize `scroll to` in page navigation
+- Swap one of your images for a `<video>`
