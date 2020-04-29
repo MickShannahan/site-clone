@@ -33,7 +33,7 @@ When you are ready to start coding, you will need to create a new application in
   - [ ] Cards are vertically centered with the center card larger for emphasis
   - [ ] Appropriate use of Margins and padding
 
-* reference: https://www.figma.com/file/vewXfmgWeQN9QCw9ELYdiI/Clone-Site?node-id=0%3A1 *
+*reference:* https://www.figma.com/file/vewXfmgWeQN9QCw9ELYdiI/Clone-Site?node-id=0%3A1
 ### Stretch goals
 
 - Add some CSS Animations to the page
